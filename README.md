@@ -1,4 +1,5 @@
-# Watermark Removal: A Weakly Supervised Approach Using Multi-View Visual Models and Inpainting
+# Weakly Supervised Watermark Removal via Multi-View Visual Representation and Image Inpainting
+
 <img src="pictures/pic1.png" width="900">
 <img src="pictures/pic2.png" width="900">
 
